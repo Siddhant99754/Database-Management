@@ -1,4 +1,4 @@
-# SQL_ASSIGNMENT_2 NAME-DEEPAK PALI , 
+# SQL_ASSIGNMENT_2 NAME-SIDDHANT KUMAR RAI, 
 
 # Create a database named library and a table named books with the following columns
 create database library;
